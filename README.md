@@ -32,50 +32,35 @@
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
 <a href="https://angular.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="50" /></a>  
 </div>
+</td>
 
-</td><td valign="top" width="auto">
 
-
+<td valign="top" width="auto">
 
 ### Backend  
 <div align="center">  
 <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
+<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a> 
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="auto">
+</td>
 
-
-
+<td valign="top" width="auto">
+  
 ### Databases  
 <div align="center">  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
+<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a> 
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
 <a href="https://www.oracle.com/in/index.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/oracle-original.svg" alt="Oracle" height="50" /></a>  
 </div>
 
 </td> 
 </tr>
-<tr> <td valign="top" width="auto" height="100%">
-  
-### Big Data  
-<div align="center">  
-<a href="https://hadoop.apache.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/apache_hadoop-icon.svg" alt="Hadoop" height="50" /></a>  
-<a href="https://kafka.apache.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/apache_kafka-icon.svg" alt="Kafka" height="50" /></a> 
-</div>
-</td> <td valign="right" width="auto">
-  
-### Game Development  
-<div align="center">  
-<a href="https://unity.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" height="50" /></a>  
-</div>
-  
-</td>
-
-</tr> </table>  
+ 
+</table>  
 
 <br/>  
 
